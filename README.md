@@ -15,6 +15,9 @@ Additionally, this project is done purely for educational purposes with no profi
 
 ## Overview
 The overall workflow of this project:
+1.
+2.
+3.
 ### Data Collection
 ### Exploratory Data Analysis
 ### Tagging
