@@ -2,10 +2,6 @@
 """
 Created on Fri Nov 26 22:03:25 2021
 
-=RIGHT(A3,LEN(A3)-1)
-=CHAR(34)&C3&CHAR(34)
-=E3&","
-
 @author: Calven
 """
 
@@ -37,8 +33,8 @@ username=driver.find_element_by_css_selector("input[name='username']")
 password=driver.find_element_by_css_selector("input[name='password']")
 username.clear()
 password.clear()
-username.send_keys("easytologin")
-password.send_keys("easytologintoo")
+username.send_keys("username")
+password.send_keys("password")
 login = driver.find_element_by_css_selector("button[type='submit']").click()
 time.sleep(5)
 
@@ -48,9 +44,8 @@ alert = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "/
 alert2 = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Not Now')]"))).click()
 
 user_list = [
-"valenciaaatan","shienn.n"
+""
 ]
-
 
 
 for user in user_list:
