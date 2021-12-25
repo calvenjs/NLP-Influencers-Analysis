@@ -6,8 +6,8 @@ Affiliate and influencer marketers has seen tremendous growth over the years wit
 This repository focuses on performing text analysis on ***instagram's influencers*** predominantly in the micro-influencers (e.g. 5k-20k followers) domain and discovering if a certain post is sponsored based on the caption itself as well as identifying the sponsor.
 
 It contains 2 scripts:
-1.Notebook for scraping influencers posts in Instagram.
-2.Main Program - Data Preprocessing, Feature Extraction, Sponsor Tagging, Natural Language Processing techniques and Data Visualization on these posts.
+1. Notebook for scraping influencers posts in Instagram.
+2. Main Program - Data Preprocessing, Feature Extraction, Sponsor Tagging, Natural Language Processing techniques and Data Visualization on these posts.
 
 ## Disclaimer
 All content scraped were done in a responsible and considerate fashion with adequate time stop that mimics human behavior to prevent any request overload on the server.
