@@ -19,3 +19,5 @@ The overall workflow of this project:
 1. 
 ### Exploratory Data Analysis
 ### Tagging
+### Natural Language Processing
+### Data Visualization
