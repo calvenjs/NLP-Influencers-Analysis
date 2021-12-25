@@ -1,5 +1,5 @@
 # NLP-Influencers-Analysis
-![alt text](https://github.com/[calvenjs]/[NLP-Influendcers-Analysis]/blob/[]/Instagram-Influencer-marketing-tutorial.jpg?raw=true)
+![image1](https://github.com/[calvenjs]/[NLP-Influencers-Analysis]/blob/[]/Instagram-Influencer-marketing-tutorial.jpg?raw=true)
 Affiliate and influencer marketers has seen tremendous growth over the years with the prominence of social media sites like Youtube, Twitter, Instagram and TikTok. 
 This repository focuses on performing caption analysis on **instagram's influencers** predominantly in the micro-influencers (e.g. 5k-20k followers) domain.
 
