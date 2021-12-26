@@ -20,4 +20,6 @@ The overall workflow of this project:
 ### Exploratory Data Analysis
 ### Tagging
 ### Natural Language Processing
+1. NER
+2. Topic Modelling
 ### Data Visualization
