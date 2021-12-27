@@ -22,9 +22,8 @@ The overall workflow of this project:
 2. First, we will quantity the engagement rate of a post by adding up the number of comments and likes and dividing the sum by the number of followers. Next, we’ll create a new column to store hyperlinks from the post. This feature will be used in conjunction with NLP to identify sponsored posts.
 ### Tagging
 1. We will Load the NLP model and retrieve and list of stop_words
-2. Clean caption by changing all words to lowercase and removing and character that is not alphanumeric. Tokenize each word for entities tagging.
+2. Preprocess the text by cleaning caption by changing all words to lowercase and removing and character that is not alphanumeric. Tokenize each word for entities tagging and
 3. Remove Emoji and duplicates. Tag the possible sponsor based on the spacy Named Entity Recognition package, links and hashtag.
-4. Drop all non sponsored posts and rearrange the column for ease of viewing.
 ### Natural Language Processing
 1. NER
 2. Topic Modelling
