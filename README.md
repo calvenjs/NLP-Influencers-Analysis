@@ -3,7 +3,7 @@
 
 ## Introduction
 Affiliate and influencer marketers has seen tremendous growth over the years with the prominence of social media sites like Youtube, Twitter, Instagram and TikTok. According to Digital Marketing Institute, influencer marketing was worth just $1.7 billion in 2016, and is set to reach $13.8 billion by 2022 as the industry witnesses more growth and becomes a more effective marketplace.<br><br>
-This repository focuses on performing text analysis on ***instagram's influencers*** predominantly in the micro-influencers (e.g. 5k-20k followers) domain and discovering if a certain post is sponsored based on the caption itself as well as identifying the sponsor.
+This repository focuses on performing text analysis and text mining on ***instagram's influencers*** predominantly in the micro-influencers (e.g. 5k-20k followers) domain and discovering if a certain post is sponsored based on the caption itself as well as identifying the sponsor.
 
 It contains 2 scripts:
 1. Notebook for scraping influencers posts in Instagram.
