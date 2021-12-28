@@ -23,10 +23,10 @@ The overall workflow of this project:
 ### Tagging
 1. We will Load the NLP model and retrieve and list of stop_words
 2. Preprocess the text by cleaning caption by changing all words to lowercase and removing and character that is not alphanumeric. Tokenize each word for entities tagging and
-3. Remove Emoji and duplicates. Tag the possible sponsor based on the spacy Named Entity Recognition package, links and hashtag.
+3. Remove Emoji and duplicates. Tag the possible sponsor based on the spaCy Named Entity Recognition package, links and hashtag.
 ### Natural Language Processing
-1. NER
-2. Topic Modelling
+1. Custom NER using spaCy - Include new entity labels sponsors, promo codes, products
+2. Topic Modelling using LDA
 ### Data Visualization
 1. Most occurring words in Instagram post captions
 ![common](https://user-images.githubusercontent.com/23024496/147430270-4659b1f8-6139-40a8-a1df-2b6059e361d1.PNG)
