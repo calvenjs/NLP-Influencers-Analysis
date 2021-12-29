@@ -19,7 +19,7 @@ The overall workflow of this project:
 1.  We’ll start by configuring the Chromedriver and setting up the login credentials. Following that, we will login to Instagram and go to the user Instagram page. Next, we will get the JSON information on that page. Once we retrieve the JSON page, we’ll store all of the relevant information for the post such as name, follower, postdate, likes, comments and caption on a list and append it to our data frame. The “time sleep” in the code prevents Instagram from identifying the scraper as a BOT. Lastly, we will export the data to a CSV file
 ### Exploratory Data Analysis
 1. We will drop duplicates and drop all posts that have an empty caption as a post with no caption will serve us no purpose. We will also replace missing values in the industry column with “General”
-2. First, we will quantity the engagement rate of a post by adding up the number of comments and likes and dividing the sum by the number of followers. Next, we’ll create a new column to store hyperlinks from the post. This feature will be used in conjunction with NLP to identify sponsored posts.
+2. First, we will quantify the engagement rate of a post by adding up the number of comments and likes and dividing the sum by the number of followers. Next, we’ll create a new column to store hyperlinks from the post. This feature will be used in conjunction with NLP to identify sponsored posts.
 ### Tagging
 1. We will Load the NLP model and retrieve and list of stop_words
 2. Preprocess the text by cleaning caption by changing all words to lowercase and removing and character that is not alphanumeric. Tokenize each word for entities tagging and
