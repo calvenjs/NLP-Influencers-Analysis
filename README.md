@@ -33,8 +33,6 @@ The overall workflow of this project:
 2. Factors that attributes to a post having high engagement rate? 
 ![image](https://user-images.githubusercontent.com/32923591/147747182-0bd328af-95eb-4a74-8525-0138f33b0eac.png)
 
-![high](https://user-images.githubusercontent.com/32923591/147747122-869593c4-e66e-4267-ba46-409b5a98d938.png)
-
 3. Frequency of Sponsorship by Brand
 ![ff](https://user-images.githubusercontent.com/23024496/147717242-be8fa1cd-0ded-40b5-9f27-3f3087105241.png)
 4. Country and Industry with the most sponsorship
