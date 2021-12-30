@@ -33,8 +33,7 @@ The overall workflow of this project:
 2. What cause a sponsored post to get high engagement rate? 
 ![high](https://user-images.githubusercontent.com/23024496/147430330-dd68d6a2-8c36-4ccd-92c7-c81fd7b135f8.PNG)
 3. Frequency of Sponsorship by Brand
-![ff](![image](https://user-images.githubusercontent.com/23024496/147717242-be8fa1cd-0ded-40b5-9f27-3f3087105241.png)
-)
+![ff](https://user-images.githubusercontent.com/23024496/147717242-be8fa1cd-0ded-40b5-9f27-3f3087105241.png)
 4. Country and Industry with the most sponsorship
 ![image](https://user-images.githubusercontent.com/23024496/147430376-1bd37c34-23b7-4ee5-8719-d6da7d7552a4.png)
 
