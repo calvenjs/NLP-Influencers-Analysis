@@ -25,7 +25,7 @@ The overall workflow of this project:
 2. Preprocess the text by cleaning caption by changing all words to lowercase and removing and character that is not alphanumeric. Tokenize each word for entities tagging and
 3. Remove Emoji and duplicates. Tag the possible sponsor based on the spaCy Named Entity Recognition package, links and hashtag.
 ### Natural Language Processing
-1. Custom NER using spaCy - Include new entity labels sponsors, promo codes, products
+1. Custom NER using spaCy - Train a custom NER model on top of the base model to include new entity labels sponsors, promo codes, products
 2. Topic Modeling - Preprocess and perform LDA to identify and classify key topics of captions. Achieving a 0.515 Coherence score and 8 topics ranging from giveaway, fitness, love to promotions.
 ### Data Visualization
 1. Most occurring words in Instagram post captions
