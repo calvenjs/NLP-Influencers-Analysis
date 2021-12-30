@@ -31,8 +31,7 @@ The overall workflow of this project:
 1. Most occurring words in Instagram post captions
 ![common](https://user-images.githubusercontent.com/23024496/147430270-4659b1f8-6139-40a8-a1df-2b6059e361d1.PNG)
 2. What cause a sponsored post to get high engagement rate? 
-![high](https://user-images.githubusercontent.com/23024496/147430330-dd68d6a2-8c36-4ccd-92c7-c81fd7b135f8.PNG)
-![high2](https://user-images.githubusercontent.com/32923591/147747122-869593c4-e66e-4267-ba46-409b5a98d938.png)
+![high](https://user-images.githubusercontent.com/32923591/147747122-869593c4-e66e-4267-ba46-409b5a98d938.png)
 
 3. Frequency of Sponsorship by Brand
 ![ff](https://user-images.githubusercontent.com/23024496/147717242-be8fa1cd-0ded-40b5-9f27-3f3087105241.png)
